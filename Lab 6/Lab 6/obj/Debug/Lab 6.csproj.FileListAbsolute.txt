@@ -1,0 +1,20 @@
+J:\CIS 199\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+J:\CIS 199\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+J:\CIS 199\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.csprojResolveAssemblyReference.cache
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab_6.Lab6.resources
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.Cache
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+J:\CIS 199\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\bin\Debug\Lab 6.exe.config
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\bin\Debug\Lab 6.exe
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\bin\Debug\Lab 6.pdb
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab 6.csprojAssemblyReference.cache
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab_6.Lab6.resources
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab_6.Properties.Resources.resources
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.GenerateResource.cache
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab 6.csproj.CoreCompileInputs.cache
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab 6.exe
+J:\CIS 199\Lab6 - OG and Zip\Lab 6\Lab 6\obj\Debug\Lab 6.pdb
