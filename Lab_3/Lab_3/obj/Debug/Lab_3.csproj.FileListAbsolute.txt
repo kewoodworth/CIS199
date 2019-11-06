@@ -1,0 +1,20 @@
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.csprojResolveAssemblyReference.cache
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.Cache
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+J:\CIS 199\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+J:\CIS 199\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+J:\CIS 199\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+J:\CIS 199\Lab_3\Lab_3\obj\Debug\Lab_3.Lab3.resources
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\bin\Debug\Lab_3.exe.config
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\bin\Debug\Lab_3.exe
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\bin\Debug\Lab_3.pdb
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.Lab3.resources
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.Properties.Resources.resources
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.GenerateResource.cache
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.exe
+J:\CIS 199\Lab3 - OG and Zip\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
