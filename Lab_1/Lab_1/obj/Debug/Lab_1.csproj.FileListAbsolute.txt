@@ -1,0 +1,7 @@
+J:\CIS 199\Lab_1\Lab_1\obj\Debug\Lab_1.csprojResolveAssemblyReference.cache
+J:\CIS 199\Lab_1\Lab_1\obj\Debug\Lab_1.csproj.CoreCompileInputs.cache
+J:\CIS 199\Lab_1\Lab_1\bin\Debug\Lab_1.exe.config
+J:\CIS 199\Lab_1\Lab_1\bin\Debug\Lab_1.exe
+J:\CIS 199\Lab_1\Lab_1\bin\Debug\Lab_1.pdb
+J:\CIS 199\Lab_1\Lab_1\obj\Debug\Lab_1.exe
+J:\CIS 199\Lab_1\Lab_1\obj\Debug\Lab_1.pdb
