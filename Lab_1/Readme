@@ -1,0 +1,13 @@
+Prompt:
+Write an interactive console application that reads two floating point numbers (use float or double type) 
+from the user and prints the results of the following calculations:
+
+Sum
+Difference (first number minus second number)
+Product
+Quotient (first number divided by second number)
+Mean (sum of the numbers divided by 2)
+
+Be sure to provide clear prompts to the user for their input and label all output as shown below. 
+Display all numbers using 3 places of precision. Hint: you can use format code F3 to achieve this when 
+formatting your output.
